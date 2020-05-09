@@ -1,0 +1,4 @@
+app:
+- redirects:
+    - from: /_next/*
+      cdn: true
